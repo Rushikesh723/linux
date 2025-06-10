@@ -18,3 +18,5 @@ This repository contains my submission for the Linux Basics course assignment.
 - Downloading files with wget
 - Changing file permissions
 - Environment variables
+
+Linux_Assignment_Submission.docx
